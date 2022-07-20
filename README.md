@@ -46,7 +46,7 @@ To configure this theme simply run `p10k configure` in your terminal.
 
 ### Configuration
 
-I configure my `~/.zshrc` as shown in the file. This is where you'll see the plug-ins I am using. I also included my `.p10k.zsh` file for reference.
+I configure my `~/.zshrc` as shown in the file. This is where you'll see the plug-ins I am using. I also included my `.p10k.zsh` file for reference. You can use the `.vimrc` file to enable scrolling in vim. Just put this file in your home directory.
 
 Screenshot:
 ![alt text](./screenshot.png)

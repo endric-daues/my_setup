@@ -48,3 +48,5 @@ To configure this theme simply run `p10k configure` in your terminal.
 
 I configure my `~/.zshrc` as shown in the file. This is where you'll see the plug-ins I am using. I also included my `.p10k.zsh` file for reference.
 
+Screenshot:
+![alt text](./screenshot.png)
